@@ -1,0 +1,28 @@
+{
+  "name": "peronia-legue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord-api-types": "^0.37.40",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord-player": "^6.2.1",
+    "discord.js": "^14.9.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.1.0",
+    "libsodium-wrappers": "^0.7.11",
+    "mongoose": "^7.0.4",
+    "nodemon": "^2.0.22",
+    "play-dl": "^1.9.6",
+    "simple-youtube-api": "^5.2.1",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.4"
+  }
+}
